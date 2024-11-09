@@ -35,13 +35,13 @@ local ThemeColor = {
 	}),
 	MainTrue = Color3.fromRGB(42, 42, 82),
 	Secondary = ColorSequence.new({ -- 7
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(42, 42, 82)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(36, 36, 76)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(36, 36, 76)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(51, 51, 121)),
 	}),
 	SecondaryTrue = Color3.fromRGB(42, 42, 82),
 	Tertiary = ColorSequence.new({ -- 4
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(42, 42, 82)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(36, 36, 76)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(51, 51, 121)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(64, 64, 148)),
 	}),
 	TertiaryTrue = Color3.fromRGB(42, 42, 82),
 	Text = Color3.fromRGB(255, 255, 255),
