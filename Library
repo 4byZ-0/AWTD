@@ -30,8 +30,8 @@ local ThemeInstances = {
 
 local ThemeColor = {
 	Main = ColorSequence.new({ -- 6
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(81, 67, 210)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(39, 39, 39)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(42, 42, 82)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(36, 36, 76)),
 	}),
 	MainTrue = Color3.fromRGB(42, 42, 82),
 	Secondary = ColorSequence.new({ -- 7
