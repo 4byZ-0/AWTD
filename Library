@@ -30,26 +30,26 @@ local ThemeInstances = {
 
 local ThemeColor = {
 	Main = ColorSequence.new({ -- 6
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(42, 42, 82)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(36, 36, 76)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(45, 45, 45)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(39, 39, 39)),
 	}),
-	MainTrue = Color3.fromRGB(42, 42, 82),
+	MainTrue = Color3.fromRGB(81, 67, 45),
 	Secondary = ColorSequence.new({ -- 7
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(36, 36, 76)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(51, 51, 121)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(31, 31, 31)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(24, 24, 24)),
 	}),
-	SecondaryTrue = Color3.fromRGB(42, 42, 82),
+	SecondaryTrue = Color3.fromRGB(31, 31, 31),
 	Tertiary = ColorSequence.new({ -- 4
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(51, 51, 121)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(64, 64, 148)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(31, 31, 31)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(27, 27, 27)),
 	}),
-	TertiaryTrue = Color3.fromRGB(42, 42, 82),
+	TertiaryTrue = Color3.fromRGB(31, 31, 31),
 	Text = Color3.fromRGB(255, 255, 255),
 	PlaceholderText = Color3.fromRGB(175, 175, 175),
 	Textbox = Color3.fromRGB(61, 61, 61),
 	NavBar = ColorSequence.new({ -- 9
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(42, 42, 82)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(36, 36, 76)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(35, 35, 35)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(24, 24, 24)),
 	}),
 	NavBarTrue = Color3.fromRGB(35, 35, 35),
 	Theme = ColorSequence.new({
