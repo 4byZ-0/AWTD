@@ -35,8 +35,8 @@ local ThemeColor = {
 	}),
 	MainTrue = Color3.fromRGB(42, 42, 82),
 	Secondary = ColorSequence.new({ -- 7
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(31, 31, 31)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(24, 24, 24)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(42, 42, 82)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(36, 36, 76)),
 	}),
 	SecondaryTrue = Color3.fromRGB(31, 31, 31),
 	Tertiary = ColorSequence.new({ -- 4
